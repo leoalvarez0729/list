@@ -1,0 +1,1630 @@
+#EXTM3U
+#EXTINF:-1,LISTA DE ELIEZER CASTAÃ‘EDA GRATIS.01/04/19
+
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+
+#EXTINF:0, Multimedios Laguna ecs | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1, FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, orbit tvecs
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1, fox premium ecs comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 type="stream" channelId="-1", HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,Paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1,INFANTILES
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+#EXTINF:-1,IF| BABYTV |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17301.m3u8
+#EXTINF:-1,IF| BOOMERANG |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17300.m3u8
+#EXTINF:-1,IF| CACHIPUM
+http://kimbogrupol.com:25461/live/sergio/sergio/17471.m3u8
+#EXTINF:-1,IF| Carton Netwoord FHD (USA)
+http://kimbogrupol.com:25461/live/sergio/sergio/15967.m3u8
+#EXTINF:-1,IF| Cartoon Network  SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17382.m3u8
+#EXTINF:-1,IF| CARTOON NETWORK HD ( USA )
+http://kimbogrupol.com:25461/live/sergio/sergio/16950.m3u8
+#EXTINF:-1,IF| CARTOON NETWORK |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17304.m3u8
+#EXTINF:-1,IF| DISCOVERY KIDS SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17384.m3u8
+#EXTINF:-1,IF| Discovery Kids SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17644.m3u8
+#EXTINF:-1,IF| DISCOVERY KIDS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17298.m3u8
+#EXTINF:-1,IF| DISNEY CHANNEL SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17385.m3u8
+#EXTINF:-1,IF| Disney Channel SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17645.m3u8
+#EXTINF:-1,IF| DISNEY JR  SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17386.m3u8
+#EXTINF:-1,IF| Disney Jr SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17646.m3u8
+#EXTINF:-1,IF| DISNEY JR |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17297.m3u8
+#EXTINF:-1,IF| DISNEY XD SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17387.m3u8
+#EXTINF:-1,IF| DISNEY XD |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17294.m3u8
+#EXTINF:-1,IF| DISNEY |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17296.m3u8
+#EXTINF:-1,IF| NAT GEO KIDS SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17390.m3u8
+#EXTINF:-1,IF| NATGEO KIDS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17299.m3u8
+#EXTINF:-1,IF| NICK JR SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17392.m3u8
+#EXTINF:-1,IF| Nick Jr SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17648.m3u8
+#EXTINF:-1,IF| NICK JR |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17303.m3u8
+#EXTINF:-1,IF| NICK SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17391.m3u8
+#EXTINF:-1,IF| NICK2 SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17393.m3u8
+#EXTINF:-1,IF| Nickelodeon  - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16187.m3u8
+#EXTINF:-1,IF| NICKELODEON |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17295.m3u8
+#EXTINF:-1,IF| NICKTOONS SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17394.m3u8
+#EXTINF:-1,IF| Tooncast SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17383.m3u8
+#EXTINF:-1,IF| Tooncast SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17647.m3u8
+#EXTINF:-1,IF| TOONCAST |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17302.m3u8
+
+#EXTINF:-1,LISTA DE ELIEZER CASTAÃ‘EDA GRATIS
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+
+#EXTINF:-1,CI| FOX |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17205.m3u8
+#EXTINF:-1,CI| FOX FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16712.m3u8
+#EXTINF:-1,CI| Fox Premium Action FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16179.m3u8
+#EXTINF:-1,CI| FOX ACTION |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17236.m3u8
+#EXTINF:-1,CI| FOXACTION |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17347.m3u8
+#EXTINF:-1,CI| FOX ACTION MEXICO |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17239.m3u8
+#EXTINF:-1,CI| Fox Premium Series FHD - PN
+http://kimbogrupol.com:25461/live/sergio/sergio/16173.m3u8
+#EXTINF:-1,CI| FOX SERIES SUB |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17187.m3u8
+#EXTINF:-1,CI| FOX SERIES |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17320.m3u8
+#EXTINF:-1,CI| Fox Premium Classics FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16177.m3u8
+#EXTINF:-1,CI| FOX CLASSIC |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17350.m3u8
+#EXTINF:-1,CI| FOX CLASSICS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17238.m3u8
+#EXTINF:-1,CI| Fox Premium Comedy FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16176.m3u8
+#EXTINF:-1,CI| FOX COMEDY |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17232.m3u8
+#EXTINF:-1,CI| Fox Premium Family FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16175.m3u8
+#EXTINF:-1,CI| FOX FAMILY |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17240.m3u8
+#EXTINF:-1,DE| FOXFAMILY |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17348.m3u8
+#EXTINF:-1,CI| Fox Premium Movies FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16174.m3u8
+#EXTINF:-1,CI| FOX MOVIES |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17241.m3u8
+#EXTINF:-1,CI| FOXMOVIES |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17349.m3u8
+#EXTINF:-1,CI| FOXMOVIES. |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17229.m3u8
+#EXTINF:-1,CI| FOX movies premium (USA)
+http://kimbogrupol.com:25461/live/sergio/sergio/16953.m3u8
+#EXTINF:-1,CI| Fox movies FHD (USA)
+http://kimbogrupol.com:25461/live/sergio/sergio/15970.m3u8
+#EXTINF:-1,CI| Fox cinema FHD (USA)
+http://kimbogrupol.com:25461/live/sergio/sergio/15969.m3u8
+#EXTINF:-1,CI| FOX CINEMA |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17237.m3u8
+#EXTINF:-1,CI| Fox Life FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/17293.m3u8
+#EXTINF:-1,CI| FOX LIFE |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17235.m3u8
+#EXTINF:-1,CI| FX |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17226.m3u8
+#EXTINF:-1,CI| FXM |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17208.m3u8
+#EXTINF:-1,CI| FX MOVIES  |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17344.m3u8
+#EXTINF:-1,CI| HALLMARK CHANNEL HD ( USA ) - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17748.m3u8
+#EXTINF:-1,CI Hallmark Channel FHD ( USA ) FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17680.m3u8
+#EXTINF:-1,CI| HALLMARK MOVIES & MYSTERIES HD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17749.m3u8
+#EXTINF:-1,CI| Hallmark Movies & Mysteries FHD ( USA ) - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17681.m3u8
+#EXTINF:-1,CI| Starz FHD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17739.m3u8
+#EXTINF:-1,CI| Starz Encore Black FHD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17373.m3u8
+#EXTINF:-1,CI| Starz Encore Classic FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/17376.m3u8
+#EXTINF:-1,CI| Starz Encore FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/17375.m3u8
+#EXTINF:-1,CI| Starz Encore Suspense FHD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17374.m3u8
+#EXTINF:-1,CI| Starz West FHD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17740.m3u8
+#EXTINF:-1,CI| Starz Family HD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17738.m3u8
+#EXTINF:-1,CI| Starz Family FHD - CH
+http://kimbogrupol.com:25461/live/sergio/sergio/17377.m3u8
+#EXTINF:-1,CI| HBO 2 FHD (USA)
+http://kimbogrupol.com:25461/live/sergio/sergio/15971.m3u8
+#EXTINF:-1,CI| HBO 2 FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16170.m3u8
+#EXTINF:-1,CI| HBO 2 |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17213.m3u8
+#EXTINF:-1,CI| HBO Family FHD- GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16169.m3u8
+#EXTINF:-1,CI| HBO FAMILY |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17227.m3u8
+#EXTINF:-1,CI| HBO FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16171.m3u8
+#EXTINF:-1,CI| HBO HD SUB |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17352.m3u8
+#EXTINF:-1,CI| HBO Plus FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16168.m3u8
+#EXTINF:-1,CI| HBO PLUS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17234.m3u8
+#EXTINF:-1,CI| HBO Signature FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16167.m3u8
+#EXTINF:-1,CI| HBO SIGNATURE |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17204.m3u8
+#EXTINF:-1,CI| HBO | UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17135.m3u8
+#EXTINF:-1,CI| TNT FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16709.m3u8
+#EXTINF:-1,CI| TNT |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17225.m3u8
+#EXTINF:-1,CI| TNT Series FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16710.m3u8
+#EXTINF:-1,CI| TNT SERIES |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17224.m3u8
+#EXTINF:-1,FMHOT TV
+http://kimbogrupol.com:25461/live/sergio/sergio/17472.m3u8
+#EXTINF:-1,CI| Space FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16708.m3u8
+#EXTINF:-1,CI| SPACE |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17233.m3u8
+#EXTINF:-1,CI| GOLDEN .|UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17346.m3u8
+#EXTINF:-1,CI| GOLDEN PLUS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17343.m3u8
+#EXTINF:-1,CI| Golden Premier FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16736.m3u8
+#EXTINF:-1,CI| GOLDEN PREMIER |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17230.m3u8
+#EXTINF:-1,CI| Golden premium FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16172.m3u8
+#EXTINF:-1,CI| GOLDEN |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17231.m3u8
+#EXTINF:-1,CI| CINEMAX |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17217.m3u8
+#EXTINF:-1,CI| Cinemax FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16180.m3u8
+#EXTINF:-1,CI| Max Prime FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16166.m3u8
+#EXTINF:-1,CI| MAX PRIME |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17207.m3u8
+#EXTINF:-1,CI| Max Up FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16735.m3u8
+#EXTINF:-1,CI| MAX UP |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17214.m3u8
+#EXTINF:-1,CI| AMC FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16183.m3u8
+#EXTINF:-1,CI| AMC |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17202.m3u8
+#EXTINF:-1,CI| DHE |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17255.m3u8
+#EXTINF:-1,CI| Cinecanal FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/17292.m3u8
+#EXTINF:-1,CI| CINECANAL |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17215.m3u8
+#EXTINF:-1,CI| Cine Sony FHD- FA
+http://kimbogrupol.com:25461/live/sergio/sergio/16707.m3u8
+#EXTINF:-1,CI| SONY |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17212.m3u8
+#EXTINF:-1,CI| A&E FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16184.m3u8
+#EXTINF:-1,CU| A&E. |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17256.m3u8
+#EXTINF:-1,CI| AXN FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16182.m3u8
+#EXTINF:-1,CI| AXN |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17218.m3u8
+#EXTINF:-1,CI| Universal Channel FHD - PN
+http://kimbogrupol.com:25461/live/sergio/sergio/16209.m3u8
+#EXTINF:-1,CI| UNIVERSAL CHANNEL |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17216.m3u8
+#EXTINF:-1,CI| Warner Channel FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/16208.m3u8
+#EXTINF:-1,CI| WARNER |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17221.m3u8
+#EXTINF:-1,CI| Paramount Channel FHD - GL
+http://kimbogrupol.com:25461/live/sergio/sergio/17372.m3u8
+#EXTINF:-1,CI| PARAMOUNT |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17341.m3u8
+#EXTINF:-1,CI| STUDIO UNIVERSAL |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17203.m3u8
+#EXTINF:-1,CI| ISAT |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17200.m3u8
+#EXTINF:-1,CI| TCM |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17219.m3u8
+#EXTINF:-1,CI| AZMUNDO |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17210.m3u8
+#EXTINF:-1,CI| CINELATINO |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17223.m3u8
+#EXTINF:-1,CI| CINEMA DINAMITA |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17206.m3u8
+#EXTINF:-1,CI| CINEMAPLUS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17199.m3u8
+#EXTINF:-1,CI| CLARO CINEMA |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17228.m3u8
+#EXTINF:-1,CI| COMEDY CENTRAL |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17201.m3u8
+#EXTINF:-1,CI| TBS |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17155.m3u8
+#EXTINF:-1,CI| TBS  |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17196.m3u8
+#EXTINF:-1,CI| E |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17211.m3u8
+#EXTINF:-1,CI| DIA TV |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17342.m3u8
+#EXTINF:-1,CI| LIFETIME |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17220.m3u8
+#EXTINF:-1,CI| MULTI PREMIER |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17351.m3u8
+#EXTINF:-1,CI| MULTIPREMIER |UHD
+http://kimbogrupol.com:25461/live/sergio/sergio/17209.m3u8
+#EXTINF:-1,CI| CANAL 64
+http://kimbogrupol.com:25461/live/sergio/sergio/17380.m3u8
+#EXTINF:-1,CI| Canal Fox SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17655.m3u8
+#EXTINF:-1,CI| Fox Action SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17665.m3u8
+#EXTINF:-1,CI| Fox Series E SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17668.m3u8
+#EXTINF:-1,CI| Fox Series O SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17652.m3u8
+#EXTINF:-1,CI| Fox Channel SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17666.m3u8
+#EXTINF:-1,CI| Fox Comedy SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17667.m3u8
+#EXTINF:-1,CI| FOX LIFE SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/16639.m3u8
+#EXTINF:-1,CI| FX SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17651.m3u8
+#EXTINF:-1,CI| FX Movies SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17657.m3u8
+#EXTINF:-1,CI| HBO SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17659.m3u8
+#EXTINF:-1,CI| HBO2 SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17662.m3u8
+#EXTINF:-1,CI| HBO Family SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17660.m3u8
+#EXTINF:-1,CI| HBO Signature SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17661.m3u8
+#EXTINF:-1,CI| FOX |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17205.m3u8
+#EXTINF:-1,CI| FOX FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16712.m3u8
+#EXTINF:-1,CI| Fox Premium Action FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16179.m3u8
+#EXTINF:-1,CI| FOX ACTION |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17236.m3u8
+#EXTINF:-1,CI| FOXACTION |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17347.m3u8
+#EXTINF:-1,CI| FOX ACTION MEXICO |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17239.m3u8
+#EXTINF:-1,CI| Fox Premium Series FHD - PN
+http://kimbogrupol.com:25461/live/Gary/Gary/16173.m3u8
+#EXTINF:-1,CI| FOX SERIES SUB |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17187.m3u8
+#EXTINF:-1,CI| FOX SERIES |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17320.m3u8
+#EXTINF:-1,CI| Fox Premium Classics FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16177.m3u8
+#EXTINF:-1,CI| FOX CLASSIC |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17350.m3u8
+#EXTINF:-1,CI| FOX CLASSICS |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17238.m3u8
+#EXTINF:-1,CI| Fox Premium Comedy FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16176.m3u8
+#EXTINF:-1,CI| FOX COMEDY |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17232.m3u8
+#EXTINF:-1,CI| Fox Premium Family FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16175.m3u8
+#EXTINF:-1,CI| FOX FAMILY |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17240.m3u8
+#EXTINF:-1,DE| FOXFAMILY |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17348.m3u8
+#EXTINF:-1,CI| Fox Premium Movies FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16174.m3u8
+#EXTINF:-1,CI| FOX MOVIES |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17241.m3u8
+#EXTINF:-1,CI| FOXMOVIES |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17349.m3u8
+#EXTINF:-1,CI| FOXMOVIES. |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17229.m3u8
+#EXTINF:-1,CI| FOX movies premium (USA)
+http://kimbogrupol.com:25461/live/Gary/Gary/16953.m3u8
+#EXTINF:-1,CI| Fox movies FHD (USA)
+http://kimbogrupol.com:25461/live/Gary/Gary/15970.m3u8
+#EXTINF:-1,CI| Fox cinema FHD (USA)
+http://kimbogrupol.com:25461/live/Gary/Gary/15969.m3u8
+#EXTINF:-1,CI| FOX CINEMA |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17237.m3u8
+#EXTINF:-1,CI| Fox Life FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/17293.m3u8
+#EXTINF:-1,CI| FOX LIFE |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17235.m3u8
+#EXTINF:-1,CI| FX |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17226.m3u8
+#EXTINF:-1,CI| FXM |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17208.m3u8
+#EXTINF:-1,CI| FX MOVIES  |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17344.m3u8
+#EXTINF:-1,CI| GOLDEN EDGE SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/16643.m3u8
+#EXTINF:-1,CI| Golden Edge SD -GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17658.m3u8
+#EXTINF:-1,CI| CINECANAL  SD -  FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17381.m3u8
+#EXTINF:-1,CI| Cinecanal SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17656.m3u8
+#EXTINF:-1,CI| AXN SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17640.m3u8
+#EXTINF:-1,CI| AE Mundo SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17639.m3u8
+#EXTINF:-1,CI| PARAMOUNT SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17395.m3u8
+#EXTINF:-1,CI| STUDIO UNIVERSAL SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17396.m3u8
+#EXTINF:-1,CI| HBO 2 FHD (USA)
+http://kimbogrupol.com:25461/live/Gary/Gary/15971.m3u8
+#EXTINF:-1,CI| HBO 2 FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16170.m3u8
+#EXTINF:-1,CI| HBO 2 |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17213.m3u8
+#EXTINF:-1,CI| HBO Family FHD- GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16169.m3u8
+#EXTINF:-1,CI| HBO FAMILY |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17227.m3u8
+#EXTINF:-1,CI| HBO FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16171.m3u8
+#EXTINF:-1,CI| HBO HD SUB |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17352.m3u8
+#EXTINF:-1,CI| HBO Plus FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16168.m3u8
+#EXTINF:-1,CI| HBO PLUS |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17234.m3u8
+#EXTINF:-1,CI| HBO Signature FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16167.m3u8
+#EXTINF:-1,CI| HBO SIGNATURE |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17204.m3u8
+#EXTINF:-1,CI| HBO | UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17135.m3u8
+#EXTINF:-1,CI| TNT FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16709.m3u8
+#EXTINF:-1,CI| TNT |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17225.m3u8
+#EXTINF:-1,CI| TNT Series FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16710.m3u8
+#EXTINF:-1,CI| TNT SERIES |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17224.m3u8
+#EXTINF:-1,FMHOT TV
+http://kimbogrupol.com:25461/live/Gary/Gary/17472.m3u8
+#EXTINF:-1,CI| Space FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16708.m3u8
+#EXTINF:-1,CI| SPACE |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17233.m3u8
+#EXTINF:-1,CI| GOLDEN .|UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17346.m3u8
+#EXTINF:-1,CI| GOLDEN PLUS |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17343.m3u8
+#EXTINF:-1,CI| Golden Premier FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16736.m3u8
+#EXTINF:-1,CI| GOLDEN PREMIER |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17230.m3u8
+#EXTINF:-1,CI| Golden premium FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16172.m3u8
+#EXTINF:-1,CI| GOLDEN |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17231.m3u8
+#EXTINF:-1,CI| CINEMAX |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17217.m3u8
+#EXTINF:-1,CI| Cinemax FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16180.m3u8
+#EXTINF:-1,CI| Max Prime FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16166.m3u8
+#EXTINF:-1,CI| MAX PRIME |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17207.m3u8
+#EXTINF:-1,CI| Max Up FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16735.m3u8
+#EXTINF:-1,CI| MAX UP |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17214.m3u8
+#EXTINF:-1,CI| AMC FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16183.m3u8
+#EXTINF:-1,CI| AMC |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17202.m3u8
+#EXTINF:-1,CI| DHE |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17255.m3u8
+#EXTINF:-1,CI| Cinecanal FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/17292.m3u8
+#EXTINF:-1,CI| CINECANAL |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17215.m3u8
+#EXTINF:-1,CI| Cine Sony FHD- FA
+http://kimbogrupol.com:25461/live/Gary/Gary/16707.m3u8
+#EXTINF:-1,CI| SONY |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17212.m3u8
+#EXTINF:-1,CI| A&E FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16184.m3u8
+#EXTINF:-1,CU| A&E. |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17256.m3u8
+#EXTINF:-1,CI| AXN FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16182.m3u8
+#EXTINF:-1,CI| AXN |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17218.m3u8
+#EXTINF:-1,CI| Universal Channel FHD - PN
+http://kimbogrupol.com:25461/live/Gary/Gary/16209.m3u8
+#EXTINF:-1,CI| UNIVERSAL CHANNEL |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17216.m3u8
+#EXTINF:-1,CI| Warner Channel FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/16208.m3u8
+#EXTINF:-1,CI| WARNER |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17221.m3u8
+#EXTINF:-1,CI| Paramount Channel FHD - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/17372.m3u8
+#EXTINF:-1,CI| PARAMOUNT |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17341.m3u8
+#EXTINF:-1,CI| STUDIO UNIVERSAL |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17203.m3u8
+#EXTINF:-1,CI| ISAT |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17200.m3u8
+#EXTINF:-1,CI| TCM |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17219.m3u8
+#EXTINF:-1,CI| AZMUNDO |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17210.m3u8
+#EXTINF:-1,CI| CINELATINO |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17223.m3u8
+#EXTINF:-1,CI| CINEMA DINAMITA |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17206.m3u8
+#EXTINF:-1,CI| CINEMAPLUS |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17199.m3u8
+#EXTINF:-1,CI| CLARO CINEMA |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17228.m3u8
+#EXTINF:-1,CI| COMEDY CENTRAL |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17201.m3u8
+#EXTINF:-1,CI| TBS |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17155.m3u8
+#EXTINF:-1,CI| TBS  |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17196.m3u8
+#EXTINF:-1,CI| E |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17211.m3u8
+#EXTINF:-1,CI| DIA TV |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17342.m3u8
+#EXTINF:-1,CI| LIFETIME |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17220.m3u8
+#EXTINF:-1,CI| MULTI PREMIER |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17351.m3u8
+#EXTINF:-1,CI| MULTIPREMIER |UHD
+http://kimbogrupol.com:25461/live/Gary/Gary/17209.m3u8
+#EXTINF:-1,CI| CANAL 64
+http://kimbogrupol.com:25461/live/Gary/Gary/17380.m3u8
+#EXTINF:-1,CI| Canal Fox SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17655.m3u8
+#EXTINF:-1,CI| Fox Action SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17665.m3u8
+#EXTINF:-1,CI| Fox Series E SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17668.m3u8
+#EXTINF:-1,CI| Fox Series O SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17652.m3u8
+#EXTINF:-1,CI| Fox Channel SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17666.m3u8
+#EXTINF:-1,CI| Fox Comedy SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17667.m3u8
+#EXTINF:-1,CI| FOX LIFE SD - FA
+http://kimbogrupol.com:25461/live/Gary/Gary/16639.m3u8
+#EXTINF:-1,CI| FX SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17651.m3u8
+#EXTINF:-1,CI| FX Movies SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17657.m3u8
+#EXTINF:-1,CI| HBO SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17659.m3u8
+#EXTINF:-1,CI| HBO2 SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17662.m3u8
+#EXTINF:-1,CI| HBO Family SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17660.m3u8
+#EXTINF:-1,CI| HBO Signature SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17661.m3u8
+#EXTINF:-1,CI| Max Prime Este SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17663.m3u8
+#EXTINF:-1,CI| Max Prime Oeste SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17664.m3u8
+#EXTINF:-1,CI| TNT SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17649.m3u8
+#EXTINF:-1,CI| TNT Series SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17650.m3u8
+#EXTINF:-1,CI| GARAGE TV SD - FA
+http://kimbogrupol.com:25461/live/Gary/Gary/16640.m3u8
+#EXTINF:-1,CI| GOLDEN EDGE SD - FA
+http://kimbogrupol.com:25461/live/Gary/Gary/16643.m3u8
+#EXTINF:-1,CI| Golden Edge SD -GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17658.m3u8
+#EXTINF:-1,CI| CINECANAL  SD -  FA
+http://kimbogrupol.com:25461/live/Gary/Gary/17381.m3u8
+#EXTINF:-1,CI| Cinecanal SD - GP
+http://kimbogrupol.com:25461/live/Gary/Gary/17656.m3u8
+#EXTINF:-1,CI| UNIVERSAL CHANNEL SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17401.m3u8
+#EXTINF:-1,CI| Universal SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17654.m3u8
+#EXTINF:-1,CI| Warner Channel SD - GP
+http://kimbogrupol.com:25461/live/sergio/sergio/17653.m3u8
+#EXTINF:-1,CI|| FILM AND ARTS SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/16636.m3u8
+#EXTINF:-1,CI| ISAT SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17400.m3u8
+#EXTINF:-1,CI| DISCOVERY CIVILIZATION SD - FA
+http://kimbogrupol.com:25461/live/sergio/sergio/17402.m3u8
+#EXTINF:0 type="favorites" channelId="-1", CDF DEPORTES EN VIVO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+#EXTINF:-1,Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1,24/7 LISTA DE ELIEZER CASTAÃ‘EDA GRATIS
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+#EXTINF:-1,24/7 4K Infantil
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17420.m3u8
+#EXTINF:-1,24/7 50 ClÃ¡sicos Disney HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17419.m3u8
+#EXTINF:-1,24/7 ALF
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4844.m3u8
+#EXTINF:-1,24/7 ALF SD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17418.m3u8
+#EXTINF:-1,24/7 Avatar: la leyenda de Aang
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6035.m3u8
+#EXTINF:-1,24/7 Avatar: la leyenda de Korra
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/7905.m3u8
+#EXTINF:-1,24/7 Batman
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11462.m3u8
+#EXTINF:-1,24/7 Ben 10
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11461.m3u8
+#EXTINF:-1,24/7 Bewitched Hechizada
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11460.m3u8
+#EXTINF:-1,24/7 Bob Esponja
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4840.m3u8
+#EXTINF:-1,24/7 Bobs Burgers
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11459.m3u8
+#EXTINF:-1,24/7 Caballeros del zodiaco
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11458.m3u8
+#EXTINF:-1,24/7 Candy Candy
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11457.m3u8
+#EXTINF:-1,24/7 Caso Cerrado HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/5744.m3u8
+#EXTINF:-1,24/7 Cat-Dog
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11456.m3u8
+#EXTINF:-1,24/7 Chespirito
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17417.m3u8
+#EXTINF:-1,24/7 Coraje
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11455.m3u8
+#EXTINF:-1,24/7 Coraje el perro cobarde
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/7906.m3u8
+#EXTINF:-1,24/7 Danny Phantom
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11454.m3u8
+#EXTINF:-1,24/7 Dave el Barbaro
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11453.m3u8
+#EXTINF:-1,24/7 Death Note
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17416.m3u8
+#EXTINF:-1,24/7 Digimon Adventure
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11452.m3u8
+#EXTINF:-1,24/7 Dinosaurios
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17415.m3u8
+#EXTINF:-1,24/7 Documental: 72 Animales HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17414.m3u8
+#EXTINF:-1,24/7 Dos hombres y medio
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17413.m3u8
+#EXTINF:-1,24/7 Dr. House
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6039.m3u8
+#EXTINF:-1,24/7 Dragon Ball
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17412.m3u8
+#EXTINF:-1,24/7 Dragon Ball Super C.67
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17411.m3u8
+#EXTINF:-1,24/7 Dragon Ball Super HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/5763.m3u8
+#EXTINF:-1,24/7 Dragon Ball Super HD *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16459.m3u8
+#EXTINF:-1,24/7 Dragon Ball Z
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17410.m3u8
+#EXTINF:-1,24/7 Dragon Ball Z iO
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17409.m3u8
+#EXTINF:-1,24/7 Dragones: Carrera al borde
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17408.m3u8
+#EXTINF:-1,24/7 Drake & Josh SD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17407.m3u8
+#EXTINF:-1,24/7 Ed Edd y Eddy
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11451.m3u8
+#EXTINF:-1,24/7 El amanecer de los Croods
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17406.m3u8
+#EXTINF:-1,24/7 El Chapulin Colorado
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11450.m3u8
+#EXTINF:-1,24/7 El Chavo Animado
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11449.m3u8
+#EXTINF:-1,24/7 El chavo del 8
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4848.m3u8
+#EXTINF:-1,24/7 El coche fantastico
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11448.m3u8
+#EXTINF:-1,24/7 El Correcaminos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11447.m3u8
+#EXTINF:-1,24/7 El laboratorio de Dexter
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11446.m3u8
+#EXTINF:-1,24/7 El Pajaro Loco
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11445.m3u8
+#EXTINF:-1,24/7 El PrÃ­ncipe del Rap
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/7907.m3u8
+#EXTINF:-1,24/7 El tunel del tiempo
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11444.m3u8
+#EXTINF:-1,24/7 Familia peluche
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17405.m3u8
+#EXTINF:-1,24/7 Fantasias animadas de ayer y hoy
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11443.m3u8
+#EXTINF:-1,24/7 Futurama HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6032.m3u8
+#EXTINF:-1,24/7 Garfield
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17404.m3u8
+#EXTINF:-1,24/7 Gravity Falls
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17403.m3u8
+#EXTINF:-1,24/7 Gravity Falls HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6031.m3u8
+#EXTINF:-1,24/7 Halcones Galacticos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11442.m3u8
+#EXTINF:-1,24/7 Hannah Montana
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17402.m3u8
+#EXTINF:-1,24/7 Hey Arnold
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11441.m3u8
+#EXTINF:-1,24/7 Home: Las aventuras de Tip y Oh
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17401.m3u8
+#EXTINF:-1,24/7 Hora De Aventura
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17400.m3u8
+#EXTINF:-1,24/7 Jimmy Neutron
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11440.m3u8
+#EXTINF:-1,24/7 Johnny Bravo
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11439.m3u8
+#EXTINF:-1,24/7 Kong: El rey de los monos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17399.m3u8
+#EXTINF:-1,24/7 La familia Addams
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11438.m3u8
+#EXTINF:-1,24/7 La Familia Monster
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11437.m3u8
+#EXTINF:-1,24/7 La Familia P. Luche
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11436.m3u8
+#EXTINF:-1,24/7 La niÃ±era |The Nanny|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17398.m3u8
+#EXTINF:-1,24/7 La pantera rosa
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6037.m3u8
+#EXTINF:-1,24/7 La rosa de Guadalupe
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11435.m3u8
+#EXTINF:-1,24/7 La vaca y el pollito
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11434.m3u8
+#EXTINF:-1,24/7 Las aventuras del Gato con Botas
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17397.m3u8
+#EXTINF:-1,24/7 Los Hechiceros de Waverly Place
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17396.m3u8
+#EXTINF:-1,24/7 Los Jovenes Titanes en acciÃ³n HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17395.m3u8
+#EXTINF:-1,24/7 Los locos Addams
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17394.m3u8
+#EXTINF:-1,24/7 Los padrinos mÃ¡gicos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17393.m3u8
+#EXTINF:-1,24/7 Los Picapiedra
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11433.m3u8
+#EXTINF:-1,24/7 Los Pitufos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11432.m3u8
+#EXTINF:-1,24/7 Los Simpson HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/5571.m3u8
+#EXTINF:-1,24/7 Los Simpson T01-T15
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4837.m3u8
+#EXTINF:-1,24/7 Los Simpson T16-T27
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4836.m3u8
+#EXTINF:-1,24/7 Los Super Campeones
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17392.m3u8
+#EXTINF:-1,24/7 Los Supersonicos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11431.m3u8
+#EXTINF:-1,24/7 Malcolm HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6022.m3u8
+#EXTINF:-1,24/7 Malcolm In The Middle
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17391.m3u8
+#EXTINF:-1,24/7 Mazinger Z
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11430.m3u8
+#EXTINF:-1,24/7 Mi Bella Genio
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4846.m3u8
+#EXTINF:-1,24/7 Movies ClÃ¡sicos
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17421.m3u8
+#EXTINF:-1,24/7 Perdidos en el espacio
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11429.m3u8
+#EXTINF:-1,24/7 Pinky y Cerebro
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11428.m3u8
+#EXTINF:-1,24/7 Pokemon
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11427.m3u8
+#EXTINF:-1,24/7 Popeye
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11426.m3u8
+#EXTINF:-1,24/7 Power Rangers
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11425.m3u8
+#EXTINF:-1,24/7 Rugrats
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11424.m3u8
+#EXTINF:-1,24/7 Series animados SD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17390.m3u8
+#EXTINF:-1,24/7 Smallville
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17389.m3u8
+#EXTINF:-1,24/7 South Park
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17388.m3u8
+#EXTINF:-1,24/7 Supernatural SD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17387.m3u8
+#EXTINF:-1,24/7 Tesoros Disney
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17386.m3u8
+#EXTINF:-1,24/7 The big bang theory
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17385.m3u8
+#EXTINF:-1,24/7 The X Files
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17384.m3u8
+#EXTINF:-1,24/7 The-Big-Bang-Theory
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4847.m3u8
+#EXTINF:-1,24/7 Thundercats
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/6036.m3u8
+#EXTINF:-1,24/7 Tom y Jerry
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/7908.m3u8
+#EXTINF:-1,24/7 Tres por Tres | FULL HOUSE |
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17383.m3u8
+#EXTINF:-1,24/7 Trolls: Â¡No pierdas el ritmo!
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17382.m3u8
+#EXTINF:-1,24/7 Turbo FAST
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17381.m3u8
+#EXTINF:-1,24/7 Un jefe en paÃ±ales
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17380.m3u8
+#EXTINF:-1,24/7 Videos Remix
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17379.m3u8
+#EXTINF:-1,24/7 Viva el Rey Julien
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17378.m3u8
+#EXTINF:-1,LISTA DE ELIEZER CASTAÃ‘EDA GRATIS
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+#EXTINF:-1 tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="IZZI", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="IZZI", Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1,SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,GOLDEN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="IZZI", Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.hu" group-title="Channels",NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2 (Opt-1)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,FOX
+http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,HBO
+http://194.102.124.162:9999/channel_2
+#EXTINF:-1,LISTA DE ELIEZER CASTAÃ‘EDA GRATIS
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+#EXTINF:-1 FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8 
+#EXTINF:-1 FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8 
+#EXTINF:-1 ,FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8 
+#EXTINF:-1 FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8 
+#EXTINF:-1 FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8 
+#EXTINF:-1 FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8 
+#EXTINF:-1 FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8042/8042/playlist.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8044/8044/playlist.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8046/8046/playlist.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8072/8072/playlist.m3u8
+
+#EXTINF:-1,HBO
+http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
+#EXTINF:-1,VH HD
+http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:-1,HBO
+http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/01.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/02.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/03.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/04.m3u8
+#EXTINF:-1, FOX CINEMA 
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1, Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8 
+#EXTINF:-1 FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8 
+#EXTINF:-1 FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8 
+#EXTINF:-1 FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8 
+#EXTINF:-1 FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8 
+#EXTINF:-1 FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8 
+#EXTINF:-1 FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+
+#EXTINF:-1,LISTA DE ELIEZER CASTAÃ‘EDA GRATIS
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+
+
+
+#EXTINF:-1,LISTA DE ELIEZER CASTAÃ‘EDA GRATIS
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1,TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1,tvg-logo="52r9Jrf.jpg" group-title="Canales Italianos" Sky TG24 | SD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
+#EXTINF:-1,group-title="Canales COSTA RICA"
+http://www.imagenesmedicas.cr/web/wp-content/uploads/2015/05/Teletica-1.jpg"
+
+#EXTINF:-1,ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,PREMIUM: GOLDEN
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,PREMIUM: AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png" group-title="Deportes",ESPN HD (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png" group-title="Deportes", ESPN HD  HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg" group-title="Deportes",ESPN2 HD (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg" group-title="Deportes", ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg" group-title="Deportes",ESPN3 (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg" group-title="Deportes", ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAKNGgh.png" group-title="Cine",FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQArePt.png" group-title="Cine",GALA TV
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JaMHua.png" group-title="Cine",GAMA
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="Cine",Golden (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="Cine",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Cultura",History Channel (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Cultura",H2 (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="Infantil", Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+ 
+
+ 
+
+
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh464wc.jpg" group-title="Cine",ATRESSERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+ 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg" group-title="MEXICO",De Pelicula HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIbTc5D.png" group-title="Entretenimiento", Distrito Comedia (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-logo-13642BF5FB-seeklogo.com.gif" group-title="Cultura",E! (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:-1,TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,SPACE HD
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+#EXTINF:-1,PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="IZZI", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="IZZI", Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="IZZI", Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", æœæ‹œOne ENG
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+#EXTINF:0 type="stream" channelId="935" tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png", American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bae1237351be2d5f2b217602a5187651.jpg", Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:0 type="stream" channelId="3760" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png", Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="3756" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png", Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 type="stream" channelId="2327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png", Showtime
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:0 type="stream" channelId="2249", FOX Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulango.tv/uploads/channels/2404695/logo_wow%20tv.png", WoW Tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/cJaeQA7.png", (ONLINE) Western 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://stluciatimes.com/wp-content/uploads/2016/05/CATCH-150x150.jpg", Catch
+http://161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="383" tvg-logo="https://i.imgur.com/BUiwYlr.png", Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0 type="stream" channelId="1300" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg", (ONLINE) Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg", (ONLINE) Comet TV (Opt-1)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg", Orbit TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:0 type="stream" channelId="1993", CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png", Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png", Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png", Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png", TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0 type="stream" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png", Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0 type="stream" channelId="57" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png", Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1,OVACION
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1,BH TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+
+#EXTINF:-1,COSMOS TV
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="http://waykc66935.i.lithium.com/t5/image/serverpage/image-id/5511i5C5A7DFCB3A9BE9F?v=1.0" group-title="CULTURA", Cazavision
+https://cdn039.fractalmedia.es/adaptive/caz_es.m3u8
+#EXTINF:-1, hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1, Univision
+https://5a3911d64928b.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
+#EXTINF:-1, CANAL 5 TELEMUNDO
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+ #EXTINF: -1, SBN PUERTO RICO
+http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w326834189_b1564000_sleng.m3u8
+ #EXTINF: -1,SUPER 5 TV
+http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
+ #EXTINF:-1,CDM PR
+http://live247tv.net:1935/marcos536/marcos536/chunklist_w704457421.m3u8
+ #EXTINF:-1,HBTV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+ #EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,NEX  TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+ #EXTINF: -1,Fox Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+ #EXTINF: -1,Fox Action Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+ #EXTINF: -1,USA HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+ #EXTINF: -1,Cine y series Cine max
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+ #EXTINF:-1,AZTECA 4
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+ 
+#EXTINF:-1,Telemundo
+http://vignette1.wikia.nocookie.net/inciclopedia/images/7/7a/Telemundo_tv_logo.png/revision/latest?
+ 
+#EXTINF:-1,SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+ 
+#EXTINF:-1,TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+ 
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1, ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+ 
+#EXTINF:-1, Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="USA",Fox Premium Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,Fish Channel
+http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1, Cachipum tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1,Peques Tv
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/51uhGp"group-title="CINE", UNIVERSAL CHANNEL  
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+ 
+
+ 
+#EXTINF:0 tvg-logo="https://narcoplay.com/wp-content/uploads/2018/05/orbit.jpg" group-title="CINE",orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1 tvg-ID="Fox Movies (East)" tvg-name="Fox Movies" tvg-logo="http://158.69.127.19/oscuros/foxmovies.jpg"group-title="PREMIUM",Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-ID="Fox Movies (East)" tvg-name="Fox Movies" tvg-logo="http://158.69.127.19/oscuros/foxmovies.jpg"group-title="PREMIUM",Fox Movies HD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Cinema" tvg-logo="http://158.69.127.19/oscuros/foxcinema.jpg"group-title="PREMIUM",Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbMc2/7317d4746c.png" group-title="PREMIUM",MAX PRIME    
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 tvg-ID="Fox Comedy  557" tvg-name="Fox Comedy" tvg-logo="http://158.69.127.19/oscuros/foxcomedy.jpg"group-title="PREMIUM",Fox Comedy  
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+ 
+#EXTINF:-1 tvg-ID="HBO 2 " tvg-name="HBO2" tvg-logo="http://158.69.127.19/oscuros/hbo2.jpg" group-title="PREMIUM",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-ID="HBO 2 " tvg-name="HBO2" tvg-logo="http://158.69.127.19/oscuros/hbo2.jpg" group-title="PREMIUM",HBO2 HD
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="INFANTIL", Disney Channel HD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1,RTS CANAL 4
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1,DE| TDN FHD - FA
+http://kimbogrupol.com:25461/live/Gary/Gary/16554.m3u8
+#EXTINF:-1,DE| Univision TDN FHD - PN
+http://kimbogrupol.com:25461/live/Gary/Gary/17686.m3u8
+#EXTINF:-1,DE| UNIVISION deporte TDN FHD - CH
+http://kimbogrupol.com:25461/live/Gary/Gary/16429.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nu2hK/ec70777e2f.png" group-title="DEPORTES", Redbull TV
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1,DE| Televisa Deportes Network TDN - GL
+http://kimbogrupol.com:25461/live/Gary/Gary/17687.m3u8
+#EXTINF:-1,DE| UnivisiÃ³n TDN USA FHD  (UnivisiÃ³n Deportes) - CH
+http://kimbogrupol.com:25461/live/Gary/Gary/16562.m3u8
+#EXTINF:-1,DE| IZZI AFIZZIONADOS ( Mexico ) ch
+http://kimbogrupol.com:25461/live/Gary/Gary/17750.m3u8
+#EXTINF:-1,DE| IZZI Afizzionados FHD (mexico) - FA
+http://kimbogrupol.com:25461/live/Gary/Gary/16434.m3u8
+#EXTINF:-1,Fox Sports Chile Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16264.m3u8
+#EXTINF:-1,(Chile) Fox Sports 1 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/10406.m3u8
+#EXTINF:-1,(Chile) Fox Sports 2 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4885.m3u8
+#EXTINF:-1,(Chile) Fox Sports 3 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4886.m3u8
+#EXTINF:-1,(Colombia) Claro Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/13985.m3u8
+#EXTINF:-1,(MÃ©xico) Fox Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14008.m3u8
+#EXTINF:-1,(MÃ©xico) Fox Sports 2 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14007.m3u8
+#EXTINF:-1,(MÃ©xico) Fox Sports 3 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14006.m3u8
+#EXTINF:-1,Bein LaLiga Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16335.m3u8
+#EXTINF:-1,CDF HD (1080P) [60 FPS]
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16497.m3u8
+#EXTINF:-1,CDF HD (1080P)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14544.m3u8
+#EXTINF:-1,CDF HD (720P) [60 FPS]
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16496.m3u8
+#EXTINF:-1,CDF HD (720P)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4883.m3u8
+#EXTINF:-1,CDF HQ (480P) [60 FPS]
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16498.m3u8
+#EXTINF:-1,CDF HQ (480P)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14548.m3u8
+#EXTINF:-1,CDF HD (CL)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14450.m3u8
+#EXTINF:-1,CDF HD (L)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14451.m3u8
+#EXTINF:-1,CDF HD (Conexiones lentas)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/10730.m3u8
+#EXTINF:-1,CDF SD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16396.m3u8
+#EXTINF:-1,Estadio CDF HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/8944.m3u8
+#EXTINF:-1,Fox Sports Chile HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11713.m3u8
+#EXTINF:-1,Azteca Deportes Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17158.m3u8
+#EXTINF:-1,Bein La Liga HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16760.m3u8
+#EXTINF:-1,BeIN Sports 1 HD (Arabia)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16771.m3u8
+#EXTINF:-1,BeIN Sports 1 HD (Francia)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16746.m3u8
+#EXTINF:-1,BeIN Sports 2 HD (Arabia)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16770.m3u8
+#EXTINF:-1,BeIN Sports 2 HD (Francia)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16745.m3u8
+#EXTINF:-1,BeIN Sports 3 HD (Francia)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16744.m3u8
+#EXTINF:-1,BEIN 3 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11082.m3u8
+#EXTINF:-1,BEIN 4 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11081.m3u8
+#EXTINF:-1,BEIN 5 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11080.m3u8
+#EXTINF:-1,BEIN 6 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11079.m3u8
+#EXTINF:-1,BEIN 7 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11078.m3u8
+#EXTINF:-1,BEIN 8 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11077.m3u8
+#EXTINF:-1,BEIN 9 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11076.m3u8
+#EXTINF:-1,BEIN 10 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11084.m3u8
+#EXTINF:-1,Bein Sports English FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11126.m3u8
+#EXTINF:-1,Bein Sports Ã‘ [EspaÃ±ol] FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11127.m3u8
+#EXTINF:-1,Eleven Sports FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11117.m3u8
+#EXTINF:-1,DirecTV Sports Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17429.m3u8
+#EXTINF:-1,DirecTV Sports 2 Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17430.m3u8
+#EXTINF:-1,ESPN + Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11162.m3u8
+#EXTINF:-1,ESPN Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11163.m3u8
+#EXTINF:-1,ESPN 2 Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16262.m3u8
+#EXTINF:-1,ESPN 2 Full HD *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17426.m3u8
+#EXTINF:-1,ESPN 3 Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16263.m3u8
+#EXTINF:-1,ESPN Deportes HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16976.m3u8
+#EXTINF:-1,Fight Network FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11115.m3u8
+#EXTINF:-1,Fox Sports 1 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11227.m3u8
+#EXTINF:-1,Fox Sports 2 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11226.m3u8
+#EXTINF:-1,Fox Sports 3 FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11225.m3u8
+#EXTINF:-1,Golf Latin America FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11219.m3u8
+#EXTINF:-1,Golf Latin America Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17119.m3u8
+#EXTINF:-1,Px Sports FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11201.m3u8
+#EXTINF:-1,Px Sports Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17091.m3u8
+#EXTINF:-1,Real Madrid TV FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11083.m3u8
+#EXTINF:-1,The Golf Channel HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11094.m3u8
+#EXTINF:-1,TNT Sports Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14727.m3u8
+#EXTINF:-1,TVC Deportes FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11185.m3u8
+#EXTINF:-1,TVC Deportes Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17064.m3u8
+#EXTINF:-1,Win Sports Full HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/13937.m3u8
+#EXTINF:-1,Bein LaLiga HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11709.m3u8
+#EXTINF:-1,Benfica TV HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11064.m3u8
+#EXTINF:-1,BOX Nation HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16989.m3u8
+#EXTINF:-1,CBS Sports Network HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11060.m3u8
+#EXTINF:-1,CDO BÃ¡sico HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16180.m3u8
+#EXTINF:-1,CDO Play HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14875.m3u8
+#EXTINF:-1,CDO Premium HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4896.m3u8
+#EXTINF:-1,Chelsea TV HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11123.m3u8
+#EXTINF:-1,Claro Sports Latinoamerica HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/13984.m3u8
+#EXTINF:-1,DirecTV Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11706.m3u8
+#EXTINF:-1,DirecTV Sports HD *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17431.m3u8
+#EXTINF:-1,DirecTV Sports 2 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11707.m3u8
+#EXTINF:-1,DirecTV Sports 2 HD *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17432.m3u8
+#EXTINF:-1,DirecTV Sports Plus HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11708.m3u8
+#EXTINF:-1,DirecTV Sports Plus HD *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17433.m3u8
+#EXTINF:-1,ESPN HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4094.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/12945.m3u8
+#EXTINF:-1,ESPN 2 HD *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17424.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/12946.m3u8
+#EXTINF:-1,ESPN Plus HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/4751.m3u8
+#EXTINF:-1,Fight Box HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16970.m3u8
+#EXTINF:-1,FIGHT NETWORK HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16969.m3u8
+#EXTINF:-1,FOX Deportes HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11113.m3u8
+#EXTINF:-1,Fox Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14026.m3u8
+#EXTINF:-1,Fox Sports HD |CL|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16958.m3u8
+#EXTINF:-1,Fox Sports Premium |AR|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16957.m3u8
+#EXTINF:-1,Fox Sports 1 HD sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16966.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14025.m3u8
+#EXTINF:-1,Fox Sports 2 HD sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16962.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14024.m3u8
+#EXTINF:-1,Fox Sports 3 HD sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16960.m3u8
+#EXTINF:-1,FS1 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11110.m3u8
+#EXTINF:-1,FS2 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11109.m3u8
+#EXTINF:-1,Gol TV English HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11104.m3u8
+#EXTINF:-1,Gol TV HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11105.m3u8
+#EXTINF:-1,GOLF Channel HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/13995.m3u8
+#EXTINF:-1,Sky Sport 1 HD (Alemania)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16765.m3u8
+#EXTINF:-1,Sky Sport 2 HD (Alemania)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16764.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16762.m3u8
+#EXTINF:-1,Sky Sport HD (Austria)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16763.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16761.m3u8
+#EXTINF:-1,Tennis Channel HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14036.m3u8
+#EXTINF:-1,TNT Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/8943.m3u8
+#EXTINF:-1,TNT Sports HD |AR|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16948.m3u8
+#EXTINF:-1,TyC Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14743.m3u8
+#EXTINF:-1,UFC LatinoamÃ©rica HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/10407.m3u8
+#EXTINF:-1,UFC TV HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16946.m3u8
+#EXTINF:-1,Win Sports HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16448.m3u8
+#EXTINF:-1,Aym Sports HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11342.m3u8
+#EXTINF:-1,DirecTV Sports HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17434.m3u8
+#EXTINF:-1,DirecTV Sports 2 HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17435.m3u8
+#EXTINF:-1,DirecTV Sports Plus HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17436.m3u8
+#EXTINF:-1,ESPN HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11337.m3u8
+#EXTINF:-1,ESPN 2 HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11336.m3u8
+#EXTINF:-1,ESPN 2 HQ *
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/17425.m3u8
+#EXTINF:-1,ESPN 3 HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11335.m3u8
+#EXTINF:-1,ESPN Plus HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11282.m3u8
+#EXTINF:-1,ESPN SEC HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11264.m3u8
+#EXTINF:-1,ESPN U HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11263.m3u8
+#EXTINF:-1,Fox Sports 1 HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11334.m3u8
+#EXTINF:-1,Fox Sports 2 HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11333.m3u8
+#EXTINF:-1,Golf Latinoamerica HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11286.m3u8
+#EXTINF:-1,Latin American Sports HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11388.m3u8
+#EXTINF:-1,TVC Deportes HQ
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11343.m3u8
+#EXTINF:-1,Afizzionados (Exclusivo)
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11259.m3u8
+#EXTINF:-1,Bein Sports
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16990.m3u8
+#EXTINF:-1,CDF Premium
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14224.m3u8
+#EXTINF:-1,CDF BÃ¡sico
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14225.m3u8
+#EXTINF:-1,CDO BÃ¡sico
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14223.m3u8
+#EXTINF:-1,Claro Sports
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16983.m3u8
+#EXTINF:-1,CNT Sports |EC|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16982.m3u8
+#EXTINF:-1,DirecTv Sports 2
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16981.m3u8
+#EXTINF:-1,DirecTv Sports Plus
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16980.m3u8
+#EXTINF:-1,ESPN
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16979.m3u8
+#EXTINF:-1,ESPN sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16972.m3u8
+#EXTINF:-1,ESPN 2
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16978.m3u8
+#EXTINF:-1,ESPN 2 sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14220.m3u8
+#EXTINF:-1,ESPN 3 sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16977.m3u8
+#EXTINF:-1,ESPN U
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16971.m3u8
+#EXTINF:-1,ESPN +
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16973.m3u8
+#EXTINF:-1,Fox Sports
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16968.m3u8
+#EXTINF:-1,Fox Sports |CL|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16967.m3u8
+#EXTINF:-1,Fox Sports sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16965.m3u8
+#EXTINF:-1,Fox Sports VEN
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16956.m3u8
+#EXTINF:-1,Fox Sports 1 Sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11710.m3u8
+#EXTINF:-1,Fox Sports 2
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16963.m3u8
+#EXTINF:-1,Fox Sports 2 Sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11711.m3u8
+#EXTINF:-1,Fox Sports 3
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16959.m3u8
+#EXTINF:-1,Fox Sports 3 Sur
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11712.m3u8
+#EXTINF:-1,Golf Latin America
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16954.m3u8
+#EXTINF:-1,GOLPERU |PE|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16953.m3u8
+#EXTINF:-1,GOL TV
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16955.m3u8
+#EXTINF:-1,Movistar Deportes |PE|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16952.m3u8
+#EXTINF:-1,NBC Golf
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16951.m3u8
+#EXTINF:-1,Px Sports
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16950.m3u8
+#EXTINF:-1,TDN
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16949.m3u8
+#EXTINF:-1,TNT Sports
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14728.m3u8
+#EXTINF:-1,TyC Sports
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16947.m3u8
+#EXTINF:-1,univision Deportes
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16945.m3u8
+#EXTINF:-1,Win Sports |CO|
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16942.m3u8
+#EXTINF:-1,USA | NBA TV HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16608.m3u8
+#EXTINF:-1,USA | NBC
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16607.m3u8
+#EXTINF:-1,USA | NBC Golf
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16606.m3u8
+#EXTINF:-1,USA | NBC Los Ãngeles HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11059.m3u8
+#EXTINF:-1,USA | NBC Miami HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11099.m3u8
+#EXTINF:-1,USA | NBC New York HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11070.m3u8
+#EXTINF:-1,USA | NBC Sports Bay Area HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11039.m3u8
+#EXTINF:-1,USA | NBC Sports Boston HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11032.m3u8
+#EXTINF:-1,USA | NBC Sports California HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11038.m3u8
+#EXTINF:-1,USA | NBC Sports Chicago HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11031.m3u8
+#EXTINF:-1,USA | NBC Sports Chicago Plus FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11158.m3u8
+#EXTINF:-1,USA | NBC Sports Northwest HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11030.m3u8
+#EXTINF:-1,USA | NBC Sports Philadelphia HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11029.m3u8
+#EXTINF:-1,USA | NBC Sports Washington HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11037.m3u8
+#EXTINF:-1,USA | NBC Washington HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11058.m3u8
+#EXTINF:-1,USA | NBCSN FULL HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11098.m3u8
+#EXTINF:-1,USA | NBCSN HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16605.m3u8
+#EXTINF:-1,USA | NBCSN HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14476.m3u8
+#EXTINF:-1,USA | NESN HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11028.m3u8
+#EXTINF:-1,USA | NESN Plus HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11027.m3u8
+#EXTINF:-1,USA | NFL Network 1
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16604.m3u8
+#EXTINF:-1,USA | NFL Network 1
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/14475.m3u8
+#EXTINF:-1,USA | NFL Network HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16603.m3u8
+#EXTINF:-1,USA | NFL Network HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11075.m3u8
+#EXTINF:-1,USA | NFL: Red Zone HD
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/11066.m3u8
+#EXTINF:-1,USA | NHL Network
+http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/16602.m3u8
+#EXTINF: -1,TNT
+ http://158.69.54.145:8000/livestream/47_.m3u8?md5=TkS-nHfJSQ1W7HTifwHmlQ&expires=1554952743
+#EXTINF: -1,HBO
+ http://158.69.54.145:8000/livestream/9_.m3u8?md5=9hm8Uu2t9Kvbosob2InVDw&expires=1554952773
+#EXTINF: -1,HBO 2
+ http://158.69.54.145:8000/livestream/10_.m3u8?md5=CoUSbxjXpK0IiiowrvGejw&expires=1554952810
+#EXTINF: -1, FOX
+ http://158.69.54.145:8000/livestream/19_.m3u8?md5=jyHPPgqMRYHort9EGK0c6w&expires=1554952880
+#EXTINF: -1,SPACE
+ http://158.69.54.145:8000/livestream/50_.m3u8?md5=d1UELDMAheebqOIpuWTnuQ&expires=1554952778
+#EXTINF: -1,CINECANAL
+ http://158.69.54.145:8000/livestream/25_.m3u8?md5=nHi_rR_q2CtAfakzsLkLzg&expires=1554952898
+#EXTINF: -1,CINEMAX
+ http://158.69.54.145:8000/livestream/21_.m3u8?md5=QllQluN9GmkQ8e_3d01uEA&expires=1554952896
+#EXTINF: -1,GOLDEN
+ http://158.69.54.145:8000/livestream/56_.m3u8?md5=v94o56kJ4ZvUwo2rW1BARA&expires=1554952692
+#EXTINF: -1,UNIVERSAL
+ http://158.69.54.145:8000/livestream/56_.m3u8?md5=v94o56kJ4ZvUwo2rW1BARA&expires=1554952692
+#EXTINF: -1, MAX UP
+ http://ul.cdn574.net:8080/hls/tbi4uw35v3.m3u8?s=xIU-oAm_ryN_QXOGRDQ56w&e=1554953181
+#EXTINF: -1,CARTOON NETWORT
+ http://158.69.54.145:8000/livestream/49_.m3u8?md5=b3_SUcx6lc5ZQR2WX7Q5Wg&expires=1554953245
+#EXTINF: -1,DISNEY CHANEL
+ http://158.69.54.145:8000/livestream/71_.m3u8?md5=n877SdcTez0MhGOm8p1h6w&expires=1554953354
+#EXTINF: -1,BOOMERANG
+ http://158.69.54.145:8000/livestream/40_.m3u8?md5=e6NON7FLx5FKJJBhm2NOyA&expires=1554953364
+#EXTINF: -1, INVESTIGACION DISCOVERY
+http://ul.cdn574.net:8080/hls/sr7a709igb81.m3u8?s=EiZoQT5qy5sBZOi1m4avyA&e=1554953592
+#EXTINF: -1,FX
+ http://158.69.54.145:8000/livestream/56_.m3u8?md5=v94o56kJ4ZvUwo2rW1BARA&expires=1554952692
+#EXTINF: -1,FXM
+ http://live.liketvw.com/streamlive/31.m3u8?token=OKFSj9q-jyHe5K5MQ6cE2g&expires2=U2FsdGVkX1%2BLVtR4UytTvKeZwtFutrDW23ceLHvw7GE%3D&expires=1554952561&ip=200.107.35.182
+#EXTINF: -1,MAX PRIME
+ http://live.liketvw.com/streamlive/31.m3u8?token=OKFSj9q-jyHe5K5MQ6cE2g&expires2=U2FsdGVkX1%2BLVtR4UytTvKeZwtFutrDW23ceLHvw7GE%3D&expires=1554952561&ip=200.107.35.182
